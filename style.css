@@ -1,0 +1,11 @@
+@import "tailwindcss";
+
+.hind-maduri-font{
+   font-family: "Hind Madurai", sans-serif;
+}
+.roboto-font{
+  font-family: "Roboto", sans-serif;
+}
+.inter-font{
+   font-family: "Inter", sans-serif;
+}
